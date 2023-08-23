@@ -22,6 +22,12 @@ body{
     text-align: center;
 }
 
+#rodape{
+    text-align: center; 
+    background-color: #e6e6e6; 
+    padding: 20px;
+}
+
 .postagem{
     margin: 40px;
     padding: 40px;
